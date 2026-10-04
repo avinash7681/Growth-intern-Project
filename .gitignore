@@ -1,0 +1,19 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite journal/temp files
+*.db-journal
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
